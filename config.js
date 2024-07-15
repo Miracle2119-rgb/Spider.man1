@@ -23,15 +23,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2347049602299']
-global.ownMain = '2347049602299'
-global.NamaOwner = '😈𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒🕷️' //gausah diganti 
+global.owner = ['2349120730021']
+global.ownMain = '2349120730021'
+global.NamaOwner = '😈𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●🕷️' //gausah diganti 
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '😈𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒😈' //ganti aj klo mau
-global.author = '😈𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒😈' //ganti aj klo mau
+global.namabot = '😈𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●😈' //ganti aj klo mau
+global.author = '𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●😈' //ganti aj klo mau
 global.packname = '𝐂𝐎𝐒𝐓𝐒༑⃟' //ganti aj klo mau
-global.url = 'https://Wa.me/2347049602299' //gausah diganti
+global.url = 'https://wa.me/qr/MY2JIUSBX5FJD1' //gausah diganti
 
 //===========================//
 
@@ -147,7 +147,7 @@ global.mess = { // bagian ini gausah diganti
  ingroup: 'This feature can only be used in groups.',
  admin: 'This feature is specifically for group admins.',
  owner: 'You are not the owner.',
- premium: 'You are not a premium user.',
+ premium: 'You are not a premium user,meet MAX.',
  seller: 'This feature can only be used by resellers and 🕷️𝐌-𝐂𝐑𝐎𝐒𝐒🕸️.',
  usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid? 🤓`,
  wait: '*Waiting for processing 🗿🚬*',
